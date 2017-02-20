@@ -9,3 +9,4 @@ optiqtm_response*.txt
 *.c
 *.h
 /output
+Makefile
