@@ -1,0 +1,11 @@
+pruntable
+*.o
+optiqtm
+*.out
+test.py
+.DS_Store
+*.json
+optiqtm_response*.txt
+*.c
+*.h
+/output
